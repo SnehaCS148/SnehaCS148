@@ -15,6 +15,7 @@ I'm **Sneha**, a curious explorer looking beyond interfaces to uncover the logic
 Currently pursuing Computer Science Engineering, I am gradually shaping my understanding of programming, problem-solving, and software development.
 
 - 💻 Learning **C, C++ & Python**
+- 🌐 Learning HTML, CSS & JavaScript
 - 🧠 Developing strong problem-solving foundations
 - 🛠 Exploring Git, GitHub and developer tools
 - 🌱 Building projects to transform concepts into practical experiences
@@ -72,9 +73,11 @@ Areas I am exploring:
 
 - Programming Logic
 - Object-Oriented Programming
-- Data Structures
+- Data Structures & Algorithms
 - Software Development Practices
-- Version Control Workflow
+- Git & Version Control
+- HTML & CSS
+- JavaScript
 
 ---
 
